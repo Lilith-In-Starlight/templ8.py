@@ -1,4 +1,4 @@
-templ8.py
+Laiqbun Course
 Copyright Katie And 2021
 
 COOPERATIVE NON-VIOLENT PUBLIC LICENSE v5

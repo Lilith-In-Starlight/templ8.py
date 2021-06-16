@@ -1,0 +1,36 @@
+PAGETITLE=Voices##
+LOGO=☼##
+
+h2. Lesson 6
+
+h3. Sentences
+
+| my pei laiq ne sa Keiti shy dy[^1^] | This language was made by Katie |
+| ty peaa vauin dy[^2^] | The window breaks |
+| ty keoiq ta by | Love yourself |
+| cy pean sha ban ta dy[^3^] | To me, a thing, by you, is given |
+| qe sheo my teq na sha dy | This doesn't want to be said by me |
+| xheu my hao dy[^4^] | The thing that is eaten is a fish |
+| sheo my heo tauo sha dy | Water wants to be drank by me |
+| keen sha hauq dy | I use a tool |
+
+# **my** marks passive voice. It inverts what x1 and x2 do, **pei** means "x1 creates x2", so **my pei** means "x1 is created by x2"
+# **ty** marks middle voice. This is a concept that English barely has. It merges x1 and x2. **peaa** means "x1 breaks x2", so **ty peaa** means "x1 breaks x1". In this example, the window isn't broken by anybody, but it is broken. It just, by itself, is in the state of being broken.
+# **cy** marks ultrapassive voice - this concept is unique to Laiqbun. Inverts what every argument does. **pean** means "x1 gives/emits x2 to x3", so **cy pean** means "to x1, x2 is given/emitted by x3"
+# Voice markers can be applied to arguments too. **hao** means "one that eats", so **my hao** means "one that is eaten".
+
+h3. Translate
+
+| my heo xhau maeo | %(blur)The fish is eaten by the cat% |
+| zhen my pai dy | %(blur)The one that is created is a person% |
+| qe sheo my heo xhau dy | %(blur)The fish doesn't want to be eaten% |
+| ty pei zhao dy | %(blur)The thing created itself% |
+
+h3. Fill in the blanks
+
+| teq sha %(blur)hy keen% Laiqbun | I speak using Laiqbun |
+| %(blur)my heo% maq sha dy | Food is eaten by me |
+| sheo peu sha zhao %(blur)my hoo% kka sha gy dy | I want to have the thing that is eaten by me |
+| %(blur)ty leuiq% maeo dy | The cat looks at itself |
+
+p=. "Continue":08.html

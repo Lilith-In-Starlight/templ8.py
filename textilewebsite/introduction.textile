@@ -1,0 +1,18 @@
+PAGETITLE=An Introduction##
+LOGO=☼##
+
+h2. An introduction
+
+Laiqbun is an artistic language based in predicate logic. Despite appearances, it is not a loglang. Laiqbun's grammar is simple, but designed in a way that gives the speaker a lot of power over the way they wish to communicate. It also has several features that are not necessary, just because they suit the ideas behind it. Laiqbun is a language that tries to separate the natural parts of a language from it, making something that is entirely humanly usable and learnable, but incredibly unnatural. At the time this course is being made, the only source of information about Laiqbun is the Official Laiqbun Documentation, which can make it a little hard to learn for people who don't understand it's technicalities. This course is inspired by the Toaq with Ease course, which is designed to teach Toaq (a tonal logical language which was mayor inspiration for Laiqbun in its early days) and Lojban.io.
+
+The goal of this course is, then, to teach Laiqbun in a way that is more easily understandable for someone who doesn't understand the technical words that the documentation uses, making the language itself more accessible. The course will be divided in several lessons that will explain simple concepts, and then let you assess your understanding of its grammar.
+
+A lesson will first introduce a few words using sentences. You will first see sentences in Laiqbun, and next to then you will see their translation to English. Below these, you will see a short list of explanations of each new concept that these sentences introduce - the Laiqbun sentences will be labeled numbers that correspond to the explanation in the list.
+
+The lessons will contain exercizes that you can use to asses how much you've understood the concepts introduced. One form these exercizes may take is Laiqbun sentences that reuse words that have been introduced previously, using them in a new context. Next to these there will be a blurred out English translation, you can hover over it with the cursor to see it. The goal is to try and translate the Laiqbun sentence before seeing the translation. Another form these may take is by showing you Laiqbun sentences with blurred out words, and a translation of the full sentence. The goal is to try to guess what word should fill in the blank, and then check whether you used the right word.
+
+h2. The sounds of Laiqbun
+
+This section is a work in progress.
+
+p=. "Start":01.html

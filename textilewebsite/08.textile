@@ -1,0 +1,35 @@
+PAGETITLE=If this then that##
+LOGO=☼##
+
+h2. Lesson 8
+
+h3. Sentences
+
+| len ta sa Fansy shy hy tteun len ta sa Parisy shy dy[^1^] | If you are in Paris, then you are in France |
+| len ta sa Parisy shy hy ppeaq len ta sa Fansy shy dy[^2^] | If you are in France, then you could be in Paris |
+| leo sha hy leuan kkeio ta sha dy[^3^] | If you were close to me, I would be happy |
+| qeuq sharu hy geui len ta tamluim ne dy[^4^] | If you were in this city, we could meet |
+| seeq mom sha dy[^5^] | I walk slowly |
+| seeq sha hy mem dy[^6^] | I walk slowly |
+| qe heaiq sha hy leuan ppoai ttiuochuao gy dy[^7^] | Most of the time, if it's raining, I don't go outside |
+| feiaq goau sha zhao dy[^8^] | I think a lot about things |
+
+
+# An "if" has two parts, what comes before (called the antecedent), and its consequences (called the consequent). In a phrase like "if you eat too much, you'll get sick", "you eat too much" is the antecedent and "you'll get sick" is the consequent. **tteun** is used when we already know that the antecedent is true, and there is no way that the consequent is not true. If you are in Paris, then there's no way you are not in France. (This sentence assumes that the listener is currently in France)
+# **ppeaq** is used when we already know that the antecedent is true, but the consequent is not necessarily the case. But if the antecedent was false, then tere is no way that the consequent is true. The sentence assumes that the listener is in France, and because of this, there's a chance that they are in Paris. However, if they were not in France, there is no way that they could be in Paris.
+# **leuan** is used when we don't know if the antecent is true, or when we know that it's false, but if it were true, then there would be no way that the consequent is false.
+# **geui** is used when we don't know if the antecent is true, or when we know that it's false, but if it were true, then the consequent is possible (even if it's not necessarily true). But, if the antecedent is false, then there is no way that the consequent is true.
+# If the first vowel of a word is **o**, and it's right after the verbs of a sentence, it's an adverb.
+# A preposition without a noun after it is another way to do adverbs.
+# **ppeai** means "x1 is most of x2". Using **o** adverbs on "if" words sets a "restriction" to the antecedent. "If it's raining, with the restriction that it's most of those moments, I don't go outside" as opposed to "If it rains most of the time, I go outside"
+# **geau** means "x1 is big", but as an adverb it can mean "a lot".
+
+h3. Translate
+
+| heo ta hy leuan shio heo ta by | %(blur)If you want to eat, eat!% |
+| sheo heo goau sha kaao dy | %(blur)I want to eat fish a lot% |
+
+h3. Fill in the blanks
+
+| leuiq sha ta hy %(blur)geui% lin ta na dy | If you were here, I could see you |
+| heo sharu zhao hy %(blur)leuan% lin ta na sym? | If you were here, would we eat something? |

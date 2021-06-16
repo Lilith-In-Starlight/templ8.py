@@ -1,0 +1,45 @@
+PAGETITLE=A Confession##
+LOGO=☼##
+
+h2. Lesson 4 - A confession
+
+I have a confession to make. I have bamboozled you. Everything you have learnt about Laiqbun's grammar is a lie. Well. Kinda. More or less... it's complicated. You see, every time I've been showing the definition of a word, I have said it in a very Englishy manner to make it easier to understand. While this form is useful for very early learners, it doesn't reflect the true nature of Laiqbun words. If you are inexperienced with what I am about to explain you, it might not make sense at first, but bear with me, it'll all make sense by the time you're done reading.
+
+Laiqbun verbs are very different from the verbs you'll find in any natural language, and are more similar to functions in mathematics or programming, or to words in languages like Lojban or Toaq. Because of this, I will start referring to them as **predicates**. A predicate's definition might look something like this:
+
+p(. **pean**
+
+p((. x1 gives/emits x2 to x3
+
+If you don't understand what those x1, x2 and x3 mean, stay in this paragraph, if you already know, feel free to skip this and go down to "So, what was happenning with stacked verbs?". Predicates take up to three **arguments** (a more accurate name for nouns). For example, in **pean sha na ta**, **sha** takes the place of x1, **na** takes the place of x2 and **ta** takes the place of x3. **x1[I] gives/emits x2[This] to x3[You]**. Every predicate works like this. Let's look at another example.
+
+p(. **heo**
+
+p((. x1 consumes x2
+
+p(. **heo sha tauo:** I drink water
+
+p(. x1[I] consumes x2[Water]
+
+So, what was going on with stacked verbs?
+
+When you put a predicate after another, you're basically putting its definition in the x2 of the previous predicate (or in the x1, if it had only one place). Like this:
+
+p(. **sheo:** x1 wants x2 to be the case
+
+p(. **heo:** x1 consumes x2
+
+p(. **sheo heo:** x1 wants (x1 consumes x2) to be the case
+
+Notice that sheo heo has two x1. This is normal. It means that they are filled as the same thing. Look:
+
+p(. **sheo heo sha tauo:** I want to drink water
+
+p((. x1[I] wants (x1[I] consumes x2[Water])
+
+Predicates that are stacked like this are called **serial predicates**. "Function words" (words that have **y** as their first vowel and only exist for grammatical reasons) are called "particles".
+
+
+And that's it, really! You now understand Laiqbun's words more accurately. From now on, all the verb definitions will use the form you just learnt, and you will be able to use the "dictionary":https://ampersandia.neocities.org/roxy/laiqbun/laiqbun-dictionary.html to learn words. Feel free to join the "discord server":https://discord.com/invite/HWcE6fq!
+
+p=. "Continue":07.html

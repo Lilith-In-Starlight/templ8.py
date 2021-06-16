@@ -1,0 +1,32 @@
+PAGETITLE=Basic Sentences##
+LOGO=☼##
+
+h2. Lesson 1
+
+h3. Sentences
+
+| teuochuao dy[^1, 2^] | It's raining |
+| kyo leo dy[^3^] | But there is happiness |
+| teq zhan dy[^4^] | The person talks |
+| gyn leo sha dy | And I am happy |
+| gyn seiqluo hau dy[^5^] | And they are smiling |
+
+# **teuochuao** is a verb that means "to rain".
+# The word **dy** is a function word that means that the sentence is an assertion, you are saying that it is true (regardless of whether it actually is true). There are other words similar to this one for questions and imperatives, which will be explained in a future lesson.
+# The word **kyo** is a function word that means "but".
+# In Laiqbun, nouns go after the verbs. The word **zhan** is a noun that means "person", it is derived from the word **zhen**, which will be explained in a future lesson.
+# **hau** in Laiqbun is the third person singular pronoun, which can be either he, she or singular they. Singular they will be used throughout this course. **hau** can only be used to refer to living creatures or sentient entities. **qau** is used for non-living, non-sentient entities.
+
+h3. Translate
+
+
+| teuochuao dy kyo leo sha dy | %(blur)It's raining, but I am happy% |
+| leo hau dy gyn seiqluo hau dy | %(blur)They are happy and they are smiling% |
+
+h3. Fill in the blanks
+
+| leo %(blur)zhan% dy | The person is happy |
+| teuochuao dy %(blur)kyo% seiqluo %(blur)sha% dy | It's raining, but I am smiling |
+| teq %(blur)hau% dy %(blur)gyn% seiqluo sha dy | They are talking and I am smiling |
+
+p=. "Continue":02.html

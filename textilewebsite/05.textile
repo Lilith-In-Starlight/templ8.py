@@ -1,0 +1,38 @@
+PAGETITLE=Questions and Prepositions##
+LOGO=☼##
+
+h2. Lesson 5
+
+h3. Sentences
+
+| peu sha hauqfuiaq ne dy | I own this computer |
+| peushu na dy[^1^] | This is mine |
+| heo sha hy len tam peushu dy[^2^] | I eat in my house |
+| se Keiti shy sha dy[^3^] | I am Katie |
+| heo sa Keiti shy na dy[^4^] | Katie eats this |
+| pe deu hauru na sym?[^5^] | Did they do this? |
+| veo dy[^6^] | Yes |
+
+# **peushu** is a verb that means "x1 is mine/of the speaker". Similar verbs exist for all pronouns, such as **peushuru** for "x1 is ours", **peutu** for "x1 is yours" or **peuhu** for "x1 is hers/his/theirs".
+# **hy** turns the verb that goes after it into a preposition. Prepositions describe the entire sentence. This sentence says "I am eating", and then says that the action "is present in my house".
+# The predicate **se** marks the beginning of a proper name. Using **shy** ends the name. **se Keiti shy** means "x1 is Katie".
+# Knowing that **se Katie shy** means "x1 is Katie", **sa Katie shy** means "Katie".
+# **pe** is a verb that means "x1 was the case in the past". Similar verbs for future and present exist, these are, respectively, ceum and teoq.
+# **veo** is a word that means "x1 is the case". It can be used as "yes". Similarly, **qe** can be used as "no".
+
+h3. Translate
+
+| peu sha kau dy | %(blur)I own a fruit% |
+| qeum taq tam sym | %(blur)Is the speaker next to the house?% |
+| veo dy qeum taq tam dy | %(blur)Yes, they are next to the house.% |
+| len sa Rokysi shy tam dy | %(blur)Roxy is in the house% |
+| deu ta zhao hy len shaan dy | %(blur)You do things at the store% |
+
+h3. Fill in the blanks
+
+| %(blur)peutu% kaao ne sym | Is this bird yours? |
+| te %(blur)sa Keiti shy% dy | Katie is you |
+| heo hau %(blur)tauo peuhu% dy | They drink their water |
+| teq sha na %(blur)ky% | I say this |
+
+p=. "Continue":05.html

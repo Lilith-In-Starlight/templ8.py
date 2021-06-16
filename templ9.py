@@ -41,21 +41,34 @@ def get_info(data):
 		newdata = newdata.replace(newdata[:newdata.find("##")+3],"",1)
 	return {
 		"data" : newdata,
-		"pagetitle" : pagetitle,
+		"pagetitle" : "Scrollable Course",
 		"css" : css,
 		"logo" : logo
 	}
 
-# Run the above function and store its results in a variable.   
-full_file_paths = get_filepaths("textilewebsite/")
+# Run the above function and store its results in a variable.
+full_file_paths = ["textilewebsite/introduction.textile",
+"textilewebsite/01.textile",
+"textilewebsite/02.textile",
+"textilewebsite/03.textile",
+"textilewebsite/04.textile",
+"textilewebsite/05.textile",
+"textilewebsite/06.textile",
+"textilewebsite/07.textile",
+"textilewebsite/08.textile",
+"textilewebsite/09.textile",]
 print(full_file_paths)
+
+fullpage = ""
+gotten = {}
 
 for i in full_file_paths:
 	with open(i, "r") as og:
 		data = og.read()
 		gotten = get_info(data)
 		data = gotten["data"]
-		print(textile.textile(data))
-		with open(i.replace("textilewebsite/", "htmlwebsite/").replace(".textile","") + ".html", "w") as new:
-			newdata = beginning.replace("##PAGETITLE##", gotten["pagetitle"]).replace("##CSS##", gotten["css"]).replace("##LOGO##", gotten["logo"]) + textile.textile(data) + ending
-			new.write(newdata)
+		fullpage += data + "\n"
+
+with open("htmlwebsite/whole-course.html", "w") as new:
+	newdata = beginning.replace("##PAGETITLE##", gotten["pagetitle"]).replace("##CSS##", gotten["css"]).replace("##LOGO##", gotten["logo"]) + textile.textile(fullpage) + ending
+	new.write(newdata)

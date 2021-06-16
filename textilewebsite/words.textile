@@ -1,0 +1,85 @@
+h2. Vocabulary used throughout the course
+
+| pe | To happen in the past | x1 was the case in the past |
+| peaa | To break | x1 breaks x2 |
+| pean | To give/emit | x1 gives, emits x2 to x3 |
+| peu | To own | x1 owns x2 |
+| pei | To create | x1 creates x2 |
+| peutu | To be yours | x1 is yours |
+| peuhu | To be hers/his/theirs | x1 is theirs |
+| peushu | To be mine | x1 is mine |
+| ppeaq | Indicative-possibility IF | x1 could be the case if x2 is the case |
+| ppeai | To be most | x1 is the most of x2 |
+| ben | To be good | x1 is good |
+| by |\2. Imperative illocution |
+| keao | To be a bird | x1 is a bird |
+| keen | To use | x1 uses x2 to do x3 |
+| keoiq | To love | x1 loves x2 |
+| ky |\2. Performative illocution |
+| kyo |\2. "But", "on the contrary" sentence prefix |
+| kke |\2. Goes back to the root of a clause |
+| kka |\2. Refers to the object described by an **o** word |
+| kkeuacuan | To be blue | x1 is of blue color |
+| kkeui | To be a friend | x1 is a friend of x2 |
+| kkeio | To be close | x1 is physically close to x2 |
+| geo | To be big | x1 is big |
+| geui | Subjunctive-possibility IF | x1 could be the case in universes where x2 is the case |
+| gy | Closes an **i** or **o* word |
+| gyn |\2. "And" sentence prefix |
+| te | To be you (singular) | x1 is you |
+| teuochuao | To rain | x1 rains on x2 |
+| teru | To be you (plural) | x1 is you (plural) |
+| tem | To be a house | x1 is a house |
+| temluim | To be a city | x1 is a city |
+| teq | To talk, to speak | x1 says x2 to x3 |
+| tteun | Indicative-necessity IF | x1 is the case if x2 is the case |
+| ty |\2. Middle voice marker |
+| deu | To do | x1 does x3 |
+| dy | Assertive illocution |
+| ry | "And" connective |
+| leeiq | To like | x1 likes x2 |
+| leo | To be happy | x1 feels happiness |
+| leuan | Subjunctive-necessity IF | x1 is the case in universes where x2 is the case |
+| leuiq | To see/look/watch | x1 sees/looks/watches x2 |
+| leiq | To be a language | x1 is a language |
+| len | To be in/on/at | x1 is in/on/at x2 |
+| ne | To be this/that | x1 is this/that |
+| neou | To know that something is the case | x1 knows that x2 is the case |
+| meauq | To be a mountain | x1 is a mountain |
+| meeo | To be a cat | x1 is a cat |
+| mem | To be slow | x1 is slow |
+| meq | To be food | x1 is food |
+| my |\2. Passive voice marker |
+| ceuqtum | To be a pet | x1 is a pet of x2 |
+| cy |\2. Ultrapassive voice marker |
+| heo | To consume | x1 consumes x2 |
+| hau |\2. She, they, them |
+| heaiq | To be outside | x1 is outside of x2 |
+| heu | To be she, he, them | x1 is she, he, them |
+| heuru | To be them (plural) | x1 is them (plural) |
+| heuq | To be a tool | x1 is a tool |
+| heuqfuiaq | To be a computer | x1 is a computer |
+| hy |\2. Preposition marker |
+| qe | To not be the case | x1 is not the case / doesn't have property x2 |
+| qeaiquei | To be a day | x1 is a day (period of 24 hours) |
+| qeum | To be next to something | x1 is physically next to x2 |
+| qeuq | To meet | x1 meets x2 |
+| xheu | To be a fish | x1 is a fish |
+| sha |\2. Me, I, the speaker |
+| she | To be me | x1 is me, I, the speaker |
+| shean | To be a store | x1 is a store |
+| sheo | To want something to happen | x1 wants x2 to be the case |
+| sheru | To be us | x1 is us |
+| shy |\2. Name closer |
+| zhan |\2. Person |
+| zhen | To be a person | x1 is a person |
+| zheo | To exist | x1 exists |
+| se |\2. Name marker |
+| seeq | To walk | x1 walks towards x2 |
+| seiqluo | To smile | x1 smiles |
+| sym |\2. Interrogative illocution |
+| zeai | To be what? | x1 is what? |
+| zeo | To greet | x1 greets x2 |
+| feiaq | To think about something | x1 thinks about x2 |
+| veo | To be the case | x1 is the case / has property x2 |
+| veuin | To be a window | x1 is a window |

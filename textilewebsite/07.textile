@@ -1,0 +1,35 @@
+PAGETITLE=Content Clauses and More Questions##
+LOGO=☼##
+
+h2. Lesson 7
+
+h3. Sentences
+
+| leeiq sha zhan qoum kka sha gy dy[^1, 2, 3^] | I like the person who is next to me |
+| zeai na sym[^4^] | What is this? |
+| leio ta hy len zaai sym | Where are you sitting? |
+| neou sha giau maauq gy dy[^5^] | I know that mountains are big |
+| leuiq zhan hoo kka maq gy sha dy | The person that eats food is next to me |
+
+
+# When the first vowel of a word is **o**, it is a sentence that is describing a noun. For example, the phrase "the person who drinks water". "Drink water" is what the person does. 
+# When a sentence is describing a noun, the word **kka** refers to the noun that is being described. In "the person who drinks water", "who" is **kka** in Laiqbun, but as you learnt in the first lesson, verbs always go first in Laiqbun. For now, lets pretend **kka** has no form other than its noun form.
+# When a sentence is describing a noun, and you wish to go back to the main part of the sentence, you use **gy**.
+# The verb **zeai** means "x1 is what?" and is used for questions that are not yes/no.
+# When the first vowel of a word is **i**, it is a sentence that behaves as a noun. For example, in the sentence "I know **things**", "things" is a noun. Now, in a sentence like "I know **that you did this**", "you did this" takes the same place as "things", even though it has a verb. Similar to how it is with **o** words, if you wish to end an **i** word and return to the main sentence, you use **gy**.
+
+h3. Translate
+
+| zeai zhan hoo kka tauo gy sym? | %(blur)The person that drinks water is who?% |
+| len kaao kkeuacuan tam lon kka maauq gy dy | %(blur)The blue bird is in the house on the mountain% |
+| neou sha kkiuacuan kaao ne gy dy | %(blur)I know that this bird is blue% |
+| heo maao pou zhan zeai kka gy tauo sym? | %(blur)Whose cat is drinking water?% |
+
+h3. Fill in the blanks
+
+| leuiq sha zhan %(blur)louiq% kka sha dy | I look at the person that looks at me |
+| zeai zhan kkoui %(blur)kka% kaao gy dy | The person that is a friend of birds is who? |
+| teuo zhao hoo %(blur)zhan kka% gy dy | The thing that the person drinks is water |
+| teq hau %(blur)shio% heo hau gy dy | They said they want to eat |
+
+p=. "Continue":06.html

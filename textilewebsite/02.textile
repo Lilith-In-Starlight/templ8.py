@@ -1,0 +1,39 @@
+PAGETITLE=More basic sentences##
+LOGO=☼##
+
+h2. Lesson 2
+
+h3. Sentences
+
+| zhen sharu dy[^1^] | We are people |
+| tem na dy[^2^] | This is a house |
+| len sharu tam dy[^3^] | We are in the house |
+| heo ta kau dy[^4^] | You eat fruit |
+| gyn heo sha tauo dy | And I drink water |
+| len maeo na dy[^5^] | There is a cat here |
+| ceuqtum hau dy | It is a pet |
+
+
+# **zhen** is the verb that was mentioned in the previous lesson. It may seem strange to an English speaker at first: It means "to be a person". Laiqbun lacks the verb "to be", instead, there are verbs that replace that function. You can turn a verb into a noun by changing its first vowel to an **a**. This makes a word that means "thing that does [verb]". **zhan** means "thing that is a person", which is just a long way to say "person". This can be done to every verb in Laiqbun.
+# **tem** is another example of the above, it means "to be a house".
+# **len** is a verb that means "to be present somewhere". It can be used as a general way to say that something is in, on or at something.
+# **heo** is a word that means "to consume", which means it can be used both as "to drink" and "to eat".
+# Knowing that **len** means "to be present", this sentence means "a cat is present in this".
+
+
+h3. Translate
+
+
+| zhen zhan dy | %(blur)People are people / The person is a person% |
+| len maeo ta dy! | %(blur)The cat is on you!% |
+| heo sharu dy | %(blur)We eat% |
+| heu zhan dy | %(blur)The person is them% |
+
+h3. Fill in the blanks
+
+| %(blur)te% hao dy | The one who eats is you |
+| %(blur)teuo% na dy | This is water |
+| heo maeo %(blur)tauo% dy | The cat drinks water |
+| %(blur)len kau% tauo dy | The fruit is in/on the water |
+
+p=. "Continue":03.html

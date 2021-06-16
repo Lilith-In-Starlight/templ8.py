@@ -1,0 +1,41 @@
+PAGETITLE=Illocutions##
+LOGO=☼##
+
+h2. Lesson 3
+
+h3. Sentences
+
+| ben qaaiquei by[^1^] | May this day be good |
+| pean sha taru zhao dy[^2, 3^] | I give you things |
+| zeo ky![^4^] | Hello! |
+| kkeui ta zhan ben by[^5^] | Be a friend of good people |
+| sheo teq sha vao dy[^6^] | I want to say the truth |
+| qeum sha ry ta shaan sym[^7, 8^] | Are you and I next to the store? |
+| qe kkeuacuan kaao ne dy[^9^] | This bird is not blue |
+
+# **by** is a word similar to **dy**, except that instead of asserting, it is imperative. What you say with this word in the end, is either an order or a wish.
+# **taru** is the second person plural pronoun.
+# **zheo** actually means "to exist", but since a "thing that exists" is just a "thing", **zhao** is usually translated that way.
+# **ky** is a similar word to **dy** and **by**, except this ones is performative. It is used to mark that something is true because you said it. **zeo** means "to greet" or "to say hi", so, because you are saying it, it's immediately true. "I hereby proclaim you spouses for life" is another sentence where this word would be used.
+# When you put a word in verb form after a noun, the "verb" behaves like an adjective. You can put as many adjectives as you want.
+# When two verbs are together in a sentence, their meanings are "stacked" into each other. **sheo** means "to want something to happen", so **sheo teq** means "to want to say something"
+# **ry** is a function word that means "and". It's used to connect two nouns.
+# **sym** is a function word like **dy**, **by** and **ky**, and is used to mark interrogation.
+# **qe** means "to not be the case"
+
+h3. Translate
+
+| qe sheo teq hau dy | %(blur)They don't want to talk% |
+| kkeui sha ry ta dy | %(blur)You and I are friends% |
+| kkeui kaao zhan dy | %(blur)The bird is a friend of the person% |
+| zeo ta sharu by! | %(blur)Say hi to us!% |
+
+
+h3. Fill in the blanks
+
+| %(blur)pean% ta zhao ne sha %(blur)by% | Give me that thing! |
+| %(blur)sheo kkeuacuan% kaao dy | The bird wants to be blue |
+| kkeui ta sha %(blur)sym% | Are you my friend? |
+| %(blur)qe zhen% kaao %(blur)dy% | Birds are not people |
+
+p=. "Continue":04.html

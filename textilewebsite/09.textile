@@ -1,0 +1,28 @@
+PAGETITLE=Quantities##
+LOGO=☼##
+
+h2. Lesson 9
+
+h3. Sentences
+
+| ben qaaiquei chy dy heaiq qaaiquei chy dy[^1] | Some days are good, some days are bad |
+| leeiq sha vauo nyoq dy[^2] | I like flowers |
+| hezhua zeou zhan byiq dy[^3] | All people deserve to be free |
+| heo sheo zhan sya na dy[^4] | No one wants to do this! |
+| my peu na naaq gyu dy[^5] | This has many extra things |
+
+# **chy** is a particle that can be translated as "some" or "at least one". "qaaiquei chy" can mean "some days".
+# **nyoq** is a particle that can be translated as "in general". Saying that you like flowers doesn't mean that you like every single flower individually, it just means that you like flowers as a general entity.
+# **byiq** is a particle that can be tranlated as "every single individual", so "zhan byiq" means "every individual person".
+# **sya** is a particle that can be translated as "none". "zhan sya" means "no person".
+# **gyu** is a particle that means "many". Similarly, **gyo** means "a few".
+
+
+h3. Translate
+| sheo zhan ne sya na dy | %(blur)None of these people want this |
+
+
+
+h3. Fill in the blanks
+
+
